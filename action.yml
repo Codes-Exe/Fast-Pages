@@ -1,4 +1,4 @@
-      name: 'FastPage'   Jupyter not defterleri, Word belgeleri ve Markdown desteği ile kullanımı kolay bir blog platformu. 
+      name: 'MonoPAges'Jupyter not defterleri, Word belgeleri ve Markdown desteği ile kullanımı kolay bir blog platformu.
 description: Converts Jupyter notebooks and Word docs into Jekyll blog posts.
 author: Hamel Husain
 inputs:
@@ -9,7 +9,7 @@ inputs:
   SSH_DEPLOY_KEY:
     description: a ssh deploy key is required if BOOL_SAVE_MARKDOWN = 'true'
     required: false
-branding:   Mono Pages
+branding:   MonoPages
   color: 'blue'
   icon: 'book'
 runs:
