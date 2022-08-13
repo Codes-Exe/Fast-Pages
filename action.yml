@@ -9,8 +9,8 @@ inputs:
   SSH_DEPLOY_KEY:
     description: a ssh deploy key is required if BOOL_SAVE_MARKDOWN = 'true'
     required: false
-branding:      S   tar
-  color: 'blue'
+branding:      Stars
+  color: 'blue'   
   icon: 'book'
 runs:
   using: 'docker'
