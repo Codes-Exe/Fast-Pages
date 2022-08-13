@@ -1,5 +1,6 @@
-      name: 'MonoPAges'Jupyter not defterleri, Word belgeleri ve Markdown desteği ile kullanımı kolay bir blog platformu.
-description: Converts Jupyter notebooks and Word docs into Jekyll blog posts.
+isim :' Işıklı Alfabe '  Jupyter not defterleri, Word belgeleri ve Markdown desteği ile kullanımı kolay bir blog platformu.
+
+description: Converts Jupyter notebooks and Word docs into Jekyll blog posts. 
 author: Hamel Husain
 inputs:
   BOOL_SAVE_MARKDOWN:
